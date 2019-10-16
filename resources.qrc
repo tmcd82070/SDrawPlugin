@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/s_draw" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>
